@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zodiac_signs>
+<zodiac_sign name="Aries" start_date="March 21" end_date="April 19">
+<element>Fire</element>
+<quality>Cardinal</quality>
+<planet>Mars</planet>
+</zodiac_sign>
+<zodiac_sign name="Taurus" start_date="April 20" end_date="May 20">
+<element>Earth</element>
+<quality>Fixed</quality>
+<planet>Venus</planet>
+</zodiac_sign>
+<zodiac_sign name="Gemini" start_date="May 21" end_date="June 20">
+<element>Air</element>
+<quality>Mutable</quality>
+<planet>Mercury</planet>
+</zodiac_sign>
+<zodiac_sign name="Cancer" start_date="June 21" end_date="July 22">
+<element>Water</element>
+<quality>Cardinal</quality>
+<planet>Moon</planet>
+</zodiac_sign>
+<zodiac_sign name="Leo" start_date="July 23" end_date="August 22">
+<element>Fire</element>
+<quality>Fixed</quality>
+<planet>Sun</planet>
+</zodiac_sign>
+<zodiac_sign name="Virgo" start_date="August 23" end_date="September 22">
+<element>Earth</element>
+<quality>Mutable</quality>
+<planet>Mercury</planet>
+</zodiac_sign>
+<zodiac_sign name="Libra" start_date="September 23" end_date="October 22">
+<element>Air</element>
+<quality>Cardinal</quality>
+<planet>Venus</planet>
+</zodiac_sign>
+<zodiac_sign name="Scorpio" start_date="October 23" end_date="November 21">
+<element>Water</element>
+<quality>Fixed</quality>
+<planet>Pluto/Mars</planet>
+</zodiac_sign>
+<zodiac_sign name="Sagittarius" start_date="November 22" end_date="December 21">
+<element>Fire</element>
+<quality>Mutable</quality>
+<planet>Jupiter</planet>
+</zodiac_sign>
+<zodiac_sign name="Capricorn" start_date="December 22" end_date="January 19">
+<element>Earth</element>
+<quality>Cardinal</quality>
+<planet>Saturn</planet>
+</zodiac_sign>
+<zodiac_sign name="Aquarius" start_date="January 20" end_date="February 18">
+<element>Air</element>
+<quality>Fixed</quality>
+<planet>Uranus/Saturn</planet>
+</zodiac_sign>
+<zodiac_sign name="Pisces" start_date="February 19" end_date="March 20">
+<element>Water</element>
+<quality>Mutable</quality>
+<planet>Neptune/Jupiter</planet>
+</zodiac_sign>
+</zodiac_signs>
